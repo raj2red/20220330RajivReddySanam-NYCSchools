@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20220330RajivReddySanam-NYCSchools</string>
+    <string name="school_name">School Name :</string>
+    <string name="course_name">Courses Available :</string>
+    <string name="languages_available">Languages Available :</string>
+    <string name="writing_avg_score">Average Writing Score</string>
+    <string name="reading_avg_score">Average Reading Score</string>
+    <string name="math_avg_score">Average Math Score</string>
+</resources>
